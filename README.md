@@ -29,7 +29,8 @@
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/bhanu-katoch-a62582289)  
+- [LinkedIn](https://www.linkedin.com/in/bhanu-katoch-a62582289)
+- [tweet](https://x.com/bhanu__katoch)
 - 📧 Email: *bhanukatoch445@gmail.com*
 
 ⭐️ From [Bhanu Katoch](https://github.com/bhanu-katoch)

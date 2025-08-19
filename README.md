@@ -46,6 +46,7 @@
 - 📚 **[LMS Web App](https://github.com/bhanu-katoch/lms-django)** – Django + MySQL + Bootstrap based online learning system  
 - 🌐 **[Multi-Client Chat System](https://github.com/bhanu-katoch/multi-client-chat)** – Python + TCP Sockets for real-time chat  
 - 🔐 **[SafenetJr](https://github.com/bhanu-katoch/SafenetJr)** – Web safety app with Django + Python  
+- 🔐 **[devSolve](https://github.com/bhanu-katoch/devSolve)** – Coding Club website  
 ---
 
 ## 📈 GitHub Stats
